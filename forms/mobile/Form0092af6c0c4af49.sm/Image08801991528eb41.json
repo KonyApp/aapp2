@@ -40,6 +40,7 @@
     "context": {
         "channel": "mobile",
         "formID": "Form0092af6c0c4af49",
+        "ispercent": true,
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
@@ -51,6 +52,7 @@
     "imagescalemode": 1,
     "info": null,
     "isVisible": true,
+    "ispercent": true,
     "isvisible": true,
     "kuid": "04ecdec99289419392797770a1e1c101",
     "left": "114dp",
