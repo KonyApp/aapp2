@@ -1,0 +1,12 @@
+function fn1(){
+kony.print("Prateek");
+kony.print("Sinha");
+  kony.print("HelloFrom User 2");
+  kony.print("I am fine");
+<<<<<<< HEAD
+  kony.print("Loca user in action");
+=======
+  kony.print("Remote user in action ");
+>>>>>>> 83338a2153d6843c66493c101d4d50dcd67e8183
+kony.print("Kony");
+              }
