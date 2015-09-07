@@ -1,37 +1,11 @@
 On branch master
-Your branch and 'origin/master' have diverged,
-and have 1 and 1 different commit each, respectively.
-  (use "git pull" to merge the remote branch into yours)
-
-You have unmerged paths.
-  (fix conflicts and run "git commit")
-
-Unmerged paths:
-  (use "git add <file>..." to mark resolution)
-
-	both modified:   modules/File0ca72079e2e564a.js
+Your branch is up-to-date with 'origin/master'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   2.txt
-	modified:   projectprop.xml
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	jssrc/
-	middleware.properties
-	modules/File0ca72079e2e564a.js.BACKUP.10196.js
-	modules/File0ca72079e2e564a.js.BACKUP.204.js
-	modules/File0ca72079e2e564a.js.BASE.10196.js
-	modules/File0ca72079e2e564a.js.BASE.204.js
-	modules/File0ca72079e2e564a.js.LOCAL.10196.js
-	modules/File0ca72079e2e564a.js.LOCAL.204.js
-	modules/File0ca72079e2e564a.js.REMOTE.10196.js
-	modules/File0ca72079e2e564a.js.REMOTE.204.js
-	resources/customwidgets/
-	resources/i18n/
+	modified:   script.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
