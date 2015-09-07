@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "136dp"
+        "value": "40dp"
     },
     "_margin_": [
         0,
@@ -27,7 +27,7 @@
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "36dp"
+        "value": "35dp"
     },
     "_width_": {
         "type": "string",
@@ -55,7 +55,7 @@
     "ispercent": true,
     "isvisible": true,
     "kuid": "d5b828d7a934420eac9a2e7a2595679c",
-    "left": "136dp",
+    "left": "40dp",
     "margin": [
         0,
         0,
@@ -75,7 +75,7 @@
     "skin": "s2ed27b8d5cb42f680fcec55b43c69bd",
     "src": "imagedrag.png",
     "srcType": 1,
-    "top": "36dp",
+    "top": "35dp",
     "wType": "Image",
     "widgetAlignment": 5,
     "widgetalignment": 5,
