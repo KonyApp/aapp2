@@ -6,7 +6,7 @@ if grep -q $PATTERN $FILE;
  then
      git mergetool -t kdiff3
  else
-     echo "Error: The Pattern '$PATTERN' was NOT Found in '$FILE'"
+     echo "Success: The are no merge conflicts in the project"
      echo "Exiting..."
      exit 0
 fi
