@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "40dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -55,7 +55,7 @@
     "ispercent": true,
     "isvisible": true,
     "kuid": "d5b828d7a934420eac9a2e7a2595679c",
-    "left": "40dp",
+    "left": "10dp",
     "margin": [
         0,
         0,
