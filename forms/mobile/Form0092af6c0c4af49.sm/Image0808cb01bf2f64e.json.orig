@@ -9,7 +9,11 @@
     },
     "_left_": {
         "type": "string",
-        "value": "10dp"
+<<<<<<< HEAD
+        "value": "12dp"
+=======
+        "value": "20dp"
+>>>>>>> 762b07bf7b3f95dce281b4499cfbc9bee9029801
     },
     "_margin_": [
         0,
@@ -55,7 +59,11 @@
     "ispercent": true,
     "isvisible": true,
     "kuid": "d5b828d7a934420eac9a2e7a2595679c",
+<<<<<<< HEAD
     "left": "12dp",
+=======
+    "left": "20dp",
+>>>>>>> 762b07bf7b3f95dce281b4499cfbc9bee9029801
     "margin": [
         0,
         0,
