@@ -10,3 +10,4 @@ if grep -q $PATTERN $FILE;
      echo "Exiting..."
      exit 0
 fi
+rm -rf 2.txt
